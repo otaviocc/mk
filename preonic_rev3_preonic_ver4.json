@@ -310,7 +310,7 @@
       "KC_NO",
       "KC_NO",
       "ANY(LGUI(KC_MINUS))",
-      "ANY(LGUI(LALT(KC_EQUAL)))",
+      "ANY(LGUI(LSFT(KC_EQUAL)))",
       "ANY(LCTL(LGUI(KC_0)))"
     ]
   ],
