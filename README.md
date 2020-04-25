@@ -20,3 +20,5 @@ Custom Keymaps for Mechanical Keyboards (QMK)
 * **Down** Decrease Font Size
 * **Up** Increase Font Size
 * **Right** Reset Font Size
+* **9** Fold Methods and Functions
+* **0** Unfold Methods and Functions
