@@ -27,7 +27,12 @@ Custom Keymaps for Mechanical Keyboards (QMK)
 * **n** Show Next Tab
 * **p** Show Previous Tab
 
-
 ### Key Binding for Reset Editor Sizes
 
 ![](reset_editor_size.png)
+
+### Links and Resources
+
+* To compile the firmware: [QMK Configurator](https://config.qmk.fm/)
+* Documentation for [QMK Firmware](https://docs.qmk.fm/#/)
+* To flash the firmware: [QMK Toolbox](https://github.com/qmk/qmk_toolbox/)
