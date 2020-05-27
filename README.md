@@ -11,7 +11,7 @@ Custom Keymaps for Mechanical Keyboards (QMK)
 * **Backspace** Show/Hide Inspector
 * **W** Close Editor
 * **E** Edit in Scope
-* **=** Reset Editor Sizes
+* **=** Reset Editor Sizes (Requires Key Binding. See below)
 * **A** Show/Hide Authors
 * **D** Add Documentation
 * **F** Focus this Editor
@@ -22,3 +22,12 @@ Custom Keymaps for Mechanical Keyboards (QMK)
 * **Right** Reset Font Size
 * **9** Fold Methods and Functions
 * **0** Unfold Methods and Functions
+* **<** Move Line Up
+* **>** Move Line Down
+* **n** Show Next Tab
+* **p** Show Previous Tab
+
+
+### Key Binding for Reset Editor Sizes
+
+![](reset_editor_size.png)
